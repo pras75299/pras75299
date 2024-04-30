@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently focused on developing with Next.js, Node.js, Express, and MongoDB.<br>👯 I’m eager to collaborate on full-stack MERN projects.<br>🤝 I’m seeking assistance with database management and learning Rust.<br>🌱 I’m actively learning about WebSockets and backend system architectures.<br>💬 Feel free to ask me about anything related to frontend technologies.<br>⚡ My professional journey began in design, progressed to frontend development, and I have now expanded my expertise to full-stack development.
+🔭 I’m currently focused on developing with Next.js, Node.js, Express, and MongoDB.<br>👯 I’m eager to collaborate on full-stack MERN projects.<br>🤝 I’m seeking assistance with database management.<br>🌱 I’m actively learning about WebSockets and backend system architectures.<br>💬 Feel free to ask me about anything related to frontend technologies.<br>⚡ My professional journey began in design, progressed to frontend development, and I have now expanded my expertise to full-stack development.
 
 
 ## 🌐 Socials:
